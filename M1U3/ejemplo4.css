@@ -1,0 +1,31 @@
+h1{
+    text-transform: uppercase; /*mayuscula*/
+    text-align: center; /*alineacion - right - left*/
+}
+h2{
+    text-transform: uppercase; /*mayuscula*/
+    color: cadetblue;
+}
+
+p{
+color: blueviolet;
+}
+.destacados{
+    color: pink;
+    font-weight: bold;
+}
+.otrodestacado{
+    color:aqua
+}
+#amarillo{
+    background-color: yellow;
+}
+#verde{
+    background-color: green;
+}
+img{
+    filter: grayscale(100%);
+}
+img:hover{
+    filter: grayscale(0%) blur(6px)
+}
